@@ -1,4 +1,4 @@
-"# RPA_IQOPTION_10_ACCOUNTS" 
+**RPA_IQOPTION_10_ACCOUNTS**
 
 <img src="images/front_Bot_IO_Option.jpeg"> 
 
@@ -6,8 +6,8 @@
 
 
 **Conteudo:**
-	* Codigo backEnd 
-	* Codigo Front
+ * Codigo backEnd 
+ * Codigo Front
 
 **Funções comentadas:**
 
